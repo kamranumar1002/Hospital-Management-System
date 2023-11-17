@@ -1,4 +1,5 @@
 import java.util.List;
+//doctor class
 
 public class Doctor extends Person {
     private String doctorId;
