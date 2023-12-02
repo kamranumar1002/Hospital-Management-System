@@ -1,5 +1,4 @@
-public class Surgeon {
-    public class Surgeon {
+ public class Surgeon {
         private String name;
         private String specialty;
 
@@ -27,4 +26,3 @@ public class Surgeon {
 
     }
 
-}
